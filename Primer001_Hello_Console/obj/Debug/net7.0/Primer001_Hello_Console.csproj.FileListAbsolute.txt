@@ -1,0 +1,14 @@
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/bin/Debug/net7.0/Primer001_Hello_Console
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/bin/Debug/net7.0/Primer001_Hello_Console.deps.json
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/bin/Debug/net7.0/Primer001_Hello_Console.runtimeconfig.json
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/bin/Debug/net7.0/Primer001_Hello_Console.dll
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/bin/Debug/net7.0/Primer001_Hello_Console.pdb
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.AssemblyInfoInputs.cache
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.AssemblyInfo.cs
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.csproj.CoreCompileInputs.cache
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.dll
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/refint/Primer001_Hello_Console.dll
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.pdb
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/Primer001_Hello_Console.genruntimeconfig.cache
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/primer/Primer001_Hello_Console/obj/Debug/net7.0/ref/Primer001_Hello_Console.dll
